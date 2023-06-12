@@ -45,6 +45,7 @@ Lista del materiale in esposizione:
 * SIEL 7 note bit tastiera, Jackson, 1985
 * HP 9000 Series 300 Hewlett-Parckard, 1985
 * SUN Sparcstation2
+
 ### Orari di apertura
 
 L'inaugurazione del museo è prevista per novembre 2023. Per informazioni potete contattarci via [mail](mailto:dib.museo@gmail.com)
