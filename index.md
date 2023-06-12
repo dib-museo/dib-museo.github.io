@@ -5,7 +5,8 @@ layout: default
 Il Museo di Informatica presso il Dipartimento di Informatica dell'Università di Bari ospita pezzi propri o donati da privati. 
 L'esposizione include pezzi, software e manualistica di rilevanza storica o tecnica. Si citano la Olivetti Programma 101 (considerata il primo concetto di personal computer), il Rockwell AIM-65, l'Apple II, i Digital VAX, PDP/8 e PDP/11, il Selenia GP-160, un mainframe IBM 3090.
 
-**L'inaugurazione** del museo è prevista nel meso di **novembre 2023**. Alcune attività divulgative verranno organizzate nei mesi precedenti l'inaugurazione. Consultare [questa pagina](./events.html) per dettagli sugli eventi.
+**L'inaugurazione** del museo è prevista nel mese di **novembre 2023**. Alcune attività divulgative verranno organizzate nei mesi precedenti all'inaugurazione.
+Consulta [questa pagina](./events.html) per maggiori dettagli sugli eventi.
 
 Il museo del Dipartimento di Informatica ha stabilito una collaborazione con la [Apulia Retrocomputing - OdV](https://www.apuliaretrocomputing.it/), finalizzata allo studio ed al recupero di materiale informatico, ed alla diffusione della storia dell'Informatica.
 
@@ -44,7 +45,7 @@ Lista del materiale in esposizione:
 * SIEL 7 note bit tastiera, Jackson, 1985
 * HP 9000 Series 300 Hewlett-Parckard, 1985
 * SUN Sparcstation2
-## Orari di apertura
+### Orari di apertura
 
 L'inaugurazione del museo è prevista per novembre 2023. Per informazioni potete contattarci via [mail](mailto:dib.museo@gmail.com)
 ### Info
